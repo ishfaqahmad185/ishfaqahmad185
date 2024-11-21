@@ -1,0 +1,1 @@
+Hi there! 👋 I'm Ishfaq Ahmad, a passionate software developer with over a decade of experience in crafting efficient and scalable web solutions. My expertise lies in .NET development, cloud technologies (Azure & AWS), and building user-centric applications that solve complex business challenges.
